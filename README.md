@@ -36,7 +36,7 @@ Android app with live wave/wind data, push alerts, and Google Maps integration.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=franciscogfsm&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogfsm&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscogfsm&theme=tokyonight)
 
 ---
 
@@ -44,9 +44,5 @@ Android app with live wave/wind data, push alerts, and Google Maps integration.
 
 📧 francisco.soares.martins@tecnico.ulisboa.pt  
 📱 +351 960 280 663  
-🔗 [LinkedIn](https://www.linkedin.com/in/francisco-martins)  
-🐙 [GitHub](https://github.com/your-github-username)
-
----
-
-> “Discipline in sport, precision in code.”
+🔗 [LinkedIn](www.linkedin.com/in/franciscogfsm)  
+🐙 [GitHub](https://github.com/franciscogfsm)
