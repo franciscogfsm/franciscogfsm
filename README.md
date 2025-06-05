@@ -21,12 +21,6 @@
 ### 📱 TrackBack
 Athlete feedback platform with GDPR compliance, performance logs, and biometric data integration.
 
-### 🌊 RiaseaHouse
-Sustainable smart home system with IoT sensors, energy monitoring, and eco-friendly design.
-
-### 🪚 Acarpinteira
-Digital carpentry planner with material estimator, workshop scheduling, and CAD integration roadmap.
-
 ### 🌤️ Surf Forecast App
 Android app with live wave/wind data, push alerts, and Google Maps integration.
 
