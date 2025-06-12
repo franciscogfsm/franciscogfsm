@@ -21,8 +21,6 @@
 ### 📱 TrackBack
 Athlete feedback platform with GDPR compliance, performance logs, and biometric data integration.
 
-### 🌤️ Surf Forecast App
-Android app with live wave/wind data, push alerts, and Google Maps integration.
 
 ---
 
