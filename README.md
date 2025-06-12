@@ -35,6 +35,5 @@ Athlete feedback platform with GDPR compliance, performance logs, and biometric 
 ## 📬 Contact
 
 📧 francisco.soares.martins@tecnico.ulisboa.pt  
-📱 +351 960 280 663  
 🔗 [LinkedIn](www.linkedin.com/in/franciscogfsm)  
 🐙 [GitHub](https://github.com/franciscogfsm)
