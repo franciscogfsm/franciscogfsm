@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Francisco Martins
+# Hi, I'm Francisco Martins
 
 🎓 Computer Engineering student @ Instituto Superior Técnico  
 🛡️ Cybersecurity enthusiast & ethical hacking challenger  
