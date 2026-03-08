@@ -26,8 +26,6 @@ Athlete feedback platform with GDPR compliance, performance logs, and biometric 
 
 ## 💻 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=franciscogfsm&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogfsm&layout=compact&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscogfsm&theme=tokyonight)
 
 ---
