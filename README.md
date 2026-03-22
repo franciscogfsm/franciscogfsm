@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages:** Java · Python · C/C++ · Prolog  
 **Tools:** Kali Linux · Docker · Git · PostgreSQL · Burp Suite · Wireshark  
@@ -16,21 +16,21 @@
 
 ---
 
-## 🚀 Projects Highlights
+## Projects Highlights
 
-### 📱 TrackBack
+### TrackBack
 Athlete feedback platform with GDPR compliance, performance logs, and biometric data integration.
 
 
 ---
 
-## 💻 GitHub Activity
+## GitHub Activity
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscogfsm&theme=tokyonight)
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 francisco.soares.martins@tecnico.ulisboa.pt  
 🔗 [LinkedIn](www.linkedin.com/in/franciscogfsm)  
