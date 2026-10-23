@@ -34,7 +34,7 @@ At Cozecare, I work across software architecture, full-stack and mobile developm
 - 🏅 **Honourable Mention — National Innovation Prize 2026**, Sustainability & Social Impact.
 - 🚀 **Youth Startup Award Finalist — Entrepreneurship Awards 2026**.
 - 🌍 **Finalist — MIT €100K Portugal & Startup World Cup Portugal 2026**.
-- 🦄 **Unicorn Factory Lisboa — Spring 2026 Cohort**, part of the youngest founding team in the batch.
+- 🦄 **Unicorn Factory Lisboa — Spring 2026 Cohort**, Youngest founder on unicorn factory.
 
 **Featured in the Press**
 
