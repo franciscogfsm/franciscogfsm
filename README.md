@@ -8,7 +8,7 @@
 
 I'm a software engineer, entrepreneur, and former Portuguese National Team athlete working at the intersection of **Artificial Intelligence, Software Engineering, and Cybersecurity**.
 
-I love building ambitious products from the ground up — from system architecture and backend infrastructure to intelligent applications, security, and polished user experiences.
+I love building ambitious products from the ground up from system architecture and backend infrastructure to intelligent applications, security, and polished user experiences.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscogfsm/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:francisco.soares.martins@tecnico.ulisboa.pt)
