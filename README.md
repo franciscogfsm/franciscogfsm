@@ -2,7 +2,7 @@
 
 **Co-Founder & CTO at [Cozecare](https://cozecare.com/) · Computer Engineering @ [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/)**
 
-📍 Lisbon, Portugal 🇵🇹
+Lisbon, Portugal
 
 ### I turn ambitious ideas into products people actually use.
 
@@ -10,14 +10,14 @@ I'm a software engineer, entrepreneur, and former Portuguese National Team athle
 
 I love building ambitious products from the ground up from system architecture and backend infrastructure to intelligent applications, security, and polished user experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscogfsm/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:francisco.soares.martins@tecnico.ulisboa.pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscogfsm/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-24292F?style=flat&logo=gmail&logoColor=white)](mailto:francisco.soares.martins@tecnico.ulisboa.pt)
 
 ---
 
-## 🚀 Building with Real-World Impact
+## Building with Real-World Impact
 
-### 🧠 [Cozecare](https://cozecare.com/) — Co-Founder & CTO
+### [Cozecare](https://cozecare.com/) — Co-Founder & CTO
 
 Building a mental health technology platform designed to make psychological support **more accessible, personalised, and continuous**.
 
@@ -29,12 +29,12 @@ At Cozecare, I work across software architecture, full-stack and mobile developm
 
 **Selected Achievements & Recognition**
 
-- 🏆 **Best Traction — The Ventures Portugal 2026**, selected from 600+ projects.
-- 🥇 **1st Place — SpinUM 2026**, University of Minho's entrepreneurship competition.
-- 🏅 **Honourable Mention — National Innovation Prize 2026**, Sustainability & Social Impact.
-- 🚀 **Youth Startup Award Finalist — Entrepreneurship Awards 2026**.
-- 🌍 **Finalist — MIT €100K Portugal & Startup World Cup Portugal 2026**.
-- 🦄 **Unicorn Factory Lisboa — Spring 2026 Cohort**, Youngest founder on unicorn factory.
+- **Best Traction — The Ventures Portugal 2026**, selected from 600+ projects.
+- **1st Place — SpinUM 2026**, University of Minho's entrepreneurship competition.
+- **Honourable Mention — National Innovation Prize 2026**, Sustainability & Social Impact.
+- **Youth Startup Award Finalist — Entrepreneurship Awards 2026**.
+- **Finalist — MIT €100K Portugal & Startup World Cup Portugal 2026**.
+- **Unicorn Factory Lisboa — Spring 2026 Cohort**, Youngest founder on unicorn factory.
 
 **Featured in the Press**
 
@@ -42,11 +42,11 @@ At Cozecare, I work across software architecture, full-stack and mobile developm
 
 ---
 
-## 💻 Featured Engineering Projects
+## Featured Engineering Projects
 
 My work spans **desktop applications, AI security, computer vision, and intelligent systems**.
 
-### 🖥️ [Mirlow](https://github.com/franciscogfsm/Mirlow) — Open-Source Screen Mirroring
+### [Mirlow](https://github.com/franciscogfsm/Mirlow) — Open-Source Screen Mirroring
 
 **Rust · Tauri 2 · React · TypeScript · Systems Programming**
 
@@ -61,7 +61,7 @@ A privacy-focused Windows desktop application designed to mirror iOS and Android
 
 [View Source Code](https://github.com/franciscogfsm/Mirlow) · [Project Website](https://mirlow.vercel.app/)
 
-### 🛡️ [OVRIDE](https://github.com/franciscogfsm/ovride) — AI Agent Security
+### [OVRIDE](https://github.com/franciscogfsm/ovride) — AI Agent Security
 
 **Cybersecurity · Agentic AI · TypeScript · Next.js · LLMs**
 
@@ -78,7 +78,7 @@ OVRIDE demonstrates how malicious instructions hidden inside external content ca
 
 [View Source Code](https://github.com/franciscogfsm/ovride)
 
-### 👁️ [ShelfOS](https://github.com/franciscogfsm/ShelfOS) — AI-Powered Retail Intelligence
+### [ShelfOS](https://github.com/franciscogfsm/ShelfOS) — AI-Powered Retail Intelligence
 
 **Python · Computer Vision · DINOv3 · Vision Transformers · Machine Learning**
 
@@ -97,7 +97,7 @@ The platform uses computer vision to analyse store shelves, compare product plac
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
@@ -112,25 +112,25 @@ I'm particularly passionate about **building scalable systems, applied AI, cyber
 
 ---
 
-## 🏆 Beyond Engineering
+## Beyond Engineering
 
-### 🇵🇹 Former Portuguese National Artistic Gymnastics Team Athlete
+### Former Portuguese National Artistic Gymnastics Team Athlete
 
 Before building software and startups, I spent years competing in artistic gymnastics, representing **Portugal at national and international competitions**.
 
 **Selected Sporting Achievements**
 
-- 🇵🇹 **Portuguese National Team Athlete** — Men's Artistic Gymnastics.
-- 🥉 **Luxembourg Open 2023** — Team Bronze Medal.
-- 🏅 **Luxembourg Open 2023** — 6th Place, Junior All-Around.
-- 🥇 **Portuguese National Junior All-Around Champion** — 2023.
-- 🥇 **National University High Bar Champion** — 2024.
+- **Portuguese National Team Athlete** — Men's Artistic Gymnastics.
+- **Luxembourg Open 2023** — Team Bronze Medal.
+- **Luxembourg Open 2023** — 6th Place, Junior All-Around.
+- **Portuguese National Junior All-Around Champion** — 2023.
+- **National University High Bar Champion** — 2024.
 
 Years of competitive gymnastics shaped how I approach engineering and entrepreneurship: **discipline, resilience, consistency, and the pursuit of excellence**.
 
 ---
 
-## 🎤 Entrepreneurship & Community
+## Entrepreneurship & Community
 
 Beyond writing code, I'm passionate about **technology entrepreneurship, innovation, hackathons, public speaking, and mentoring**.
 
@@ -138,19 +138,19 @@ I enjoy sharing knowledge, supporting early-stage startups, and collaborating wi
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=franciscogfsm&theme=transparent&hide_border=true)
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 I'm always open to interesting conversations and collaborations around **Artificial Intelligence, Cybersecurity, Software Engineering, and Entrepreneurship**.
 
 **[LinkedIn](https://www.linkedin.com/in/franciscogfsm/) · [GitHub](https://github.com/franciscogfsm) · [Email](mailto:francisco.soares.martins@tecnico.ulisboa.pt)**
 
-**Languages:** 🇵🇹 Portuguese (Native) · 🇬🇧 English (C1 — IELTS Academic 7.5) · 🇪🇸 Spanish (Proficient)
+**Languages:** Portuguese (Native) · English (C1 — IELTS Academic 7.5) · Spanish (Proficient)
 
 ---
 
